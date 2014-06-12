@@ -1,2 +1,1 @@
-// problem 10 duplexer
-
+// problem 11 duplexer redux
