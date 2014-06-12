@@ -1,1 +1,1 @@
-// problem 11 duplexer redux
+// problem 12 combiner
