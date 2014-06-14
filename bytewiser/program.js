@@ -1,3 +1,1 @@
-var buf = new Buffer('bytewiser');
-
-console.log(buf);
+// problem 02 modifying buffers
