@@ -1,1 +1,1 @@
-// problem 05 typed arrays
+// problem 06 array buffers
