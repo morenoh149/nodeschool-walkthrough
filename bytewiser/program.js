@@ -1,2 +1,1 @@
-// problem 04 buffer concat
-//
+// problem 05 typed arrays
